@@ -1,0 +1,8 @@
+{
+  "short_name": "PS4 Exploit Host",
+  "name": "PS4 Exploit Host By Oliver Bathurst",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
